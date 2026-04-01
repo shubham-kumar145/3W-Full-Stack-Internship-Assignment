@@ -104,7 +104,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 | Service | Platform |
 |---------|----------|
-| Frontend | Vercel / Netlify |
+| Frontend | Vercel |
 | Backend | Render |
 | Database | MongoDB Atlas |
 | Media | Cloudinary |
